@@ -50,9 +50,9 @@ int main()
 	return 0;
 }
 ```
-
+<!--
 ref
 ======
-from this code https://gist.github.com/FiaDot/9127467
+ from this code https://gist.github.com/FiaDot/9127467
 add some feature and modify
-(wide char, dll, etc...)
+(wide char, dll, etc...)-->
