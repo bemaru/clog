@@ -13,7 +13,7 @@ int main()
 
 	std::string str = "narrow character";
 	std::wstring wstr = L"wide character";
-	std::wstring wstr2 = L"�ѱ�";
+	std::wstring wstr2 = L"한글";
 
 	CLOG(trace) << str;
 	CLOG(debug) << wstr;
