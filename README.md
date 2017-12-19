@@ -2,6 +2,8 @@ clog
 =====
 c++ simple logging library ( boost log wrapper )
 
+![Alt Text](https://media.giphy.com/media/xT9DgPZCzcARto3J16/giphy.gif)
+
 Requirement
 =======
 boost 1.65.1
@@ -57,3 +59,5 @@ ref
  from this code https://gist.github.com/FiaDot/9127467
 add some feature and modify
 (wide char, dll, etc...)-->
+
+
